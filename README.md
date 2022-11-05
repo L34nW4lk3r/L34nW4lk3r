@@ -1,0 +1,1 @@
+Hi, I'm @L34nW4lk3r, I'm from Latin America and I'm starting to study programming (JS particularly). I am still looking for material to help me understand how, when and why certain functions are used and so on.
