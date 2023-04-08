@@ -1,3 +1,2 @@
-Hi, I'm @L34nW4lk3r, I'm from Argentina and I'm starting to study programming (with the goal of being a Full Stack Developer).
-I am currently using FreeCodeCamp and according to my research, the most recommended then is The Odin Project to affirm knowledge.
-Wish me luck and follow me while I'm going to upload some projects that I complete throughout my studies.
+#Hi, I'm @L34nW4lk3r, I'm from Argentina, I'm a PC repair and assembly technician and network maintenance.
+I'm starting to study programming (with the goal of being a Full Stack Developer). I am currently using FreeCodeCamp and according to my research, after finishing FreeCodeCamp I am going to reaffirm knowledge with The Odin Project. Wish me luck and follow me while I upload some projects that I do throughout my studies.
